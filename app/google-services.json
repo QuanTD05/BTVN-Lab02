@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857099550652",
+    "project_id": "btvn-21562",
+    "storage_bucket": "btvn-21562.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857099550652:android:a2ea357aa849834ddcb5b9",
+        "android_client_info": {
+          "package_name": "fpoly.md19304.btvn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQb5U-jiue_R8LCXtx7ANNdmXZLgtt-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
